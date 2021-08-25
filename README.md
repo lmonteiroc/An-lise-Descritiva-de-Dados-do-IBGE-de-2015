@@ -1,0 +1,2 @@
+# An-lise-Descritiva-de-Dados-do-IBGE-de-2015
+Utilizar os dados da PNAD do ano de 2015 disponíveis no site do IBGE para realizar avaliações descritivas sobre as informações fornecidas pelo instituto a fim de praticar e desenvolver habilidades estatísticas utilizando agem linguagem Python, a biblioteca Pandas e o Google Colab como ferramenta de extração de dados, trabalho realizado durante o curso Formação de Data Science da Alura
